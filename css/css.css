@@ -78,7 +78,7 @@ a{ text-decoration:none;}
 .main p a{ color:#7B7B7B;}
 .main p a:hover{ color:#FF7E00;}
 .tu{
-	margin:25px;
+	margin:30px;
 	border-radius:8px;
 	box-shadow: 0 17px 50px 0 rgba(0,0,0,.19);
 	-webkit-transition:0s;

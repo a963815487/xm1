@@ -58,6 +58,9 @@ a{ text-decoration:none;}
 .slideBox{ 
 	float:left;
 	margin-left:2.5%;}
+#demo1{ 
+	margin-left:5%;
+	margin-right:2%;}
 
 /*购物数据栏*/
 #wrap2 { width: 40%; height: 400px; float:left; text-align:justify; padding-left:70px; padding-top:50px;}
@@ -75,7 +78,6 @@ a{ text-decoration:none;}
 #bottom .wgc{ background-color:#FB5E5E;}
 #bottom .wgc:hover{ background-color:#EF6E6E;}
 
-</style>
 /*产品参数*/
 ul,li{ list-style: none}
 .tabClick{ background: #f3f3f3; overflow: hidden;}
