@@ -61,6 +61,7 @@ a{ text-decoration:none;}
 .products{
 	width: 95%;
 	margin: 15px auto;
+	padding-bottom:15px;
 	}
 .products h2{
 	border-bottom-width: 2px;
